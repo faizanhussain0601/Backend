@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "chacha": "echo \"this is good\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizanhussain0601/Backend.git"
+  },
+  "author": "Faizan Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizanhussain0601/Backend/issues"
+  },
+  "homepage": "https://github.com/faizanhussain0601/Backend#readme",
+  "description": "",
+  "dependencies": {
+    "accessibility": "^3.0.9",
+    "express": "^5.2.1"
+  }
+}
